@@ -1,7 +1,7 @@
 // Set up Chart Area
 
 var svgWidth = 2000;
-var svgHeight = 400;
+var svgHeight = 300;
 
 var chartMargin = {
   top: 75,
